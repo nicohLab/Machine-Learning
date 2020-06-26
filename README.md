@@ -1,4 +1,4 @@
-![coollogo_com-24210648](https://user-images.githubusercontent.com/62196662/85879640-4f38e300-b7a0-11ea-85dc-8125b8d77069.png)
+<img src="https://user-images.githubusercontent.com/62196662/85880203-3f6dce80-b7a1-11ea-9991-87dccd464281.png" width ="100">
 
 # Machine-Learning
 Examples about Machine Learning
